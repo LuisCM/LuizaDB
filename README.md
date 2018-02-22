@@ -1,5 +1,5 @@
 # LuizaDB
-A high performance NoSQL Database
+A high performance NoSQL Database.
 
 Attention: Soon it will be available, in the testing phase ...
 
